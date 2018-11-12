@@ -1,0 +1,6 @@
+framework module Pods_MiuYoga {
+  umbrella header "Pods-MiuYoga-umbrella.h"
+
+  export *
+  module * { export * }
+}
